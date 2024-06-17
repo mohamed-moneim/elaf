@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.71d6f9fd.css",
-    "main.js": "/static/js/main.710d860e.js",
+    "main.css": "/static/css/main.6df7e00c.css",
+    "main.js": "/static/js/main.47bf415f.js",
     "static/js/453.4133d3ab.chunk.js": "/static/js/453.4133d3ab.chunk.js",
     "static/media/ai3.jpg": "/static/media/ai3.0aa779d584d6272615b9.jpg",
     "static/media/ai1.jpg": "/static/media/ai1.0f3f221cd92bfcccf8f3.jpg",
@@ -13,8 +13,8 @@
     "static/media/AI-course2.jpg": "/static/media/AI-course2.c08f7f585799d9b3561b.jpg",
     "static/media/AI-course3.jpg": "/static/media/AI-course3.e61bff8d4b610481a305.jpg",
     "static/media/contact.png": "/static/media/contact.53433284701890271392.png",
+    "static/media/elaflogo.png": "/static/media/elaflogo.dec21a824cd06b1a6296.png",
     "static/media/AI-course1.jpg": "/static/media/AI-course1.51ef931ff0f0217c9eff.jpg",
-    "static/media/elaflogo.png": "/static/media/elaflogo.009c8ec23e7d2f9b1eaa.png",
     "static/media/kinder3.jpg": "/static/media/kinder3.ae70084784369bc3dd7a.jpg",
     "static/media/BlendedLearning.jpg": "/static/media/BlendedLearning.87caf06085cc0067db77.jpg",
     "static/media/kinder1.jpg": "/static/media/kinder1.6aa0d9f13d36db2183dd.jpg",
@@ -45,12 +45,12 @@
     "static/media/AR.jpg": "/static/media/AR.fc08199cb90877e5e625.jpg",
     "static/media/contact.jpg": "/static/media/contact.6babfdce6f03af83502a.jpg",
     "index.html": "/index.html",
-    "main.71d6f9fd.css.map": "/static/css/main.71d6f9fd.css.map",
-    "main.710d860e.js.map": "/static/js/main.710d860e.js.map",
+    "main.6df7e00c.css.map": "/static/css/main.6df7e00c.css.map",
+    "main.47bf415f.js.map": "/static/js/main.47bf415f.js.map",
     "453.4133d3ab.chunk.js.map": "/static/js/453.4133d3ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71d6f9fd.css",
-    "static/js/main.710d860e.js"
+    "static/css/main.6df7e00c.css",
+    "static/js/main.47bf415f.js"
   ]
 }
